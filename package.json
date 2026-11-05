@@ -1,0 +1,8 @@
+{
+  "name": "k-law-dictionary",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": { "check": "node --check src/index.js" },
+  "devDependencies": { "wrangler": "^4.0.0" }
+}
